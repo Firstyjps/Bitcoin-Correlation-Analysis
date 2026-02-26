@@ -12,6 +12,7 @@ st.title("Bitcoin Correlation Dashboard")
 # Mapping of human‑readable asset names to their Yahoo Finance tickers
 TICKERS = {
     "Bitcoin": "BTC-USD",
+    "ETH": "ETH-USD",
     "Gold": "GC=F",
     "S&P 500": "^GSPC",
     "NASDAQ": "^IXIC",
